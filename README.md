@@ -1,5 +1,8 @@
 ### Hi there 🐬
-
+<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
+<br/>
+<!--🏃🏻‍♀️ 몰입 경험 🏃🏻‍♀️ https://instagram.com/hexrud?igshid=YmMyMTA2M2Y=-->
 <!--
 **imrud/imrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
