@@ -1,6 +1,5 @@
 ### Hi there 🐬
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
 <br/>
 <!--🏃🏻‍♀️ 몰입 경험 🏃🏻‍♀️ https://instagram.com/hexrud?igshid=YmMyMTA2M2Y=-->
 <!--
