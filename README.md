@@ -1,6 +1,8 @@
 ### Hi there 🐬
 <br/>
 <br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mycolor})](https://solved.ac/{mycolor})
 
 <!--
 **imrud/imrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
