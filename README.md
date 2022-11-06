@@ -1,8 +1,8 @@
 ### Hi I'm rud 🐬
 <br/>
-<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrud&show_icons=true&theme=transparent)
+<br/>
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
 
