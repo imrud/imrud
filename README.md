@@ -2,7 +2,14 @@
 <br/>
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrud&show_icons=true&theme=transparent)
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
+
+
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrud&layout=compact)](https://github.com/imrud/github-readme-stats)
+
 
 <!--
 **imrud/imrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
