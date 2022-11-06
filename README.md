@@ -1,14 +1,26 @@
 ### Hi I'm rud 🐬
 <br/>
 <br/>
-<hr>
-<!-- git status -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrud&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrud&layout=compact)](https://github.com/imrud/github-readme-stats)
 
-<hr>
-<!-- 백준 티어 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
+
+🌱 I’m currently learning ...  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+
+
+---
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrud&show_icons=true&theme=transparent)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrud&layout=compact)](https://github.com/imrud/github-readme-stats)
+</div>
+
+___
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
+</div>
+
+
+
 
 
 <!--
