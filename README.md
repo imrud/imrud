@@ -3,13 +3,15 @@
 <br/>
 
 
-🌱 I’m currently learning ...  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+🌱I’m currently learning ...  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 
 
 ---
+
 <div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrud&show_icons=true&theme=transparent)
+  <br/>
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrud&layout=compact)](https://github.com/imrud/github-readme-stats)
 </div>
