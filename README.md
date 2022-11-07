@@ -14,12 +14,12 @@
   <br/>
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrud&layout=compact)](https://github.com/imrud/github-readme-stats)
-</div>
-
-___
-<div align="center">
+  ---
+  ### 🖥️Problem Solving
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycolor)](https://solved.ac/mycolor/)
 </div>
+
 
 
 
